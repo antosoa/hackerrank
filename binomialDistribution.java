@@ -4,6 +4,22 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
+
+/*The ratio of boys to girls for babies born in Russia is . If there is  child born per birth, what proportion of 
+
+Russian families with exactly  children will have at least  boys?
+
+Write a program to compute the answer using the above parameters. Then print your result, rounded to 
+
+a scale of  decimal places (i.e., #.### format).
+
+Input Format
+
+A single line containing the following values:
+
+1.09 1
+*/
+
 public class Solution {
     
     private static DecimalFormat df = new DecimalFormat("0.000");
