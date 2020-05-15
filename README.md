@@ -1,8 +1,7 @@
 # hackerrank for coding interviews
 Code practice on (https://www.hackerrank.com)
 
-## std deviation
-[pdf note](https://github.com/antosoa/hackerrank/blob/master/Standard-Deviation)
+## [std deviation](https://github.com/antosoa/hackerrank/blob/master/Standard-Deviation)
 
 ```java
  for (int i=0; i<a.length; i++)
@@ -17,8 +16,6 @@ Code practice on (https://www.hackerrank.com)
         return Math.sqrt(std/a.length); 
 ```
 
-## conditional probability
-[pdf note](https://github.com/antosoa/hackerrank/blob/master/Day%203_%20Conditional%20Probability%20_%20HackerRank.pdf)
+## [conditional probability](https://github.com/antosoa/hackerrank/blob/master/Day%203_%20Conditional%20Probability%20_%20HackerRank.pdf)
 
-## Binomial distribution
-[pdf note](https://github.com/antosoa/hackerrank/blob/master/Day%204_%20Binomial%20Distribution%20I%20_%20HackerRank.pdf)
+## [Binomial distribution](https://github.com/antosoa/hackerrank/blob/master/Day%204_%20Binomial%20Distribution%20I%20_%20HackerRank.pdf)
