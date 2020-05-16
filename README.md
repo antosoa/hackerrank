@@ -1,4 +1,4 @@
-# hackerrank for coding interviews
+# hackerrank
 Code practice on (https://www.hackerrank.com)
 
 ## [std deviation](https://github.com/antosoa/hackerrank/blob/master/Standard-Deviation)
