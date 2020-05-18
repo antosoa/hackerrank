@@ -4,6 +4,12 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
+
+// The probability that a machine produces a defective product is 1/3 .
+//What is the probability that the 1st defect is found during the 5th inspection?
+// manual input 1 3 (defect probability) 5
+
+
 public class Solution {
     
      private static DecimalFormat df = new DecimalFormat("0.000");
