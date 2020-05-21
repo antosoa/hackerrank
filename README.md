@@ -1,6 +1,9 @@
 # hackerrank
 Code practice on (https://www.hackerrank.com)
 
+
+## [Big O notation](https://github.com/antosoa/hackerrank/blob/master/Learning%20Big%20O%20Notation%20With%20O(n)%20Complexity%20-%20DZone%20Performance.pdf)
+
 ## [std deviation](https://github.com/antosoa/hackerrank/blob/master/Standard-Deviation)
 
 ```java
