@@ -78,7 +78,7 @@ public class Solution {
     public static void main(String[] args) {
         /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
         Scanner sc = new Scanner(System.in);
-        System.out.print("Lunghezza array: ");
+        System.out.print("Lunghezza array: " + (7%3) );
         int number = sc.nextInt();
         Integer[] arr = new Integer[number];
         for (int i = 0; i<arr.length; i++)
