@@ -22,3 +22,9 @@ Code practice on (https://www.hackerrank.com)
 ## [conditional probability](https://github.com/antosoa/hackerrank/blob/master/Day%203_%20Conditional%20Probability%20_%20HackerRank.pdf)
 
 ## [Binomial distribution](https://github.com/antosoa/hackerrank/blob/master/Day%204_%20Binomial%20Distribution%20I%20_%20HackerRank.pdf)
+
+## [Data Structures :](https://github.com/antosoa/hackerrank/tree/master/hackerrankproject/src/datastructures) 
+- [dynamic array](https://github.com/antosoa/hackerrank/blob/master/hackerrankproject/src/datastructures/dynamicarray/Solution.java)
+- graphs
+- linked list
+
