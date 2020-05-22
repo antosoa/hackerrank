@@ -23,7 +23,7 @@ Code practice on (https://www.hackerrank.com)
 
 ## [Binomial distribution](https://github.com/antosoa/hackerrank/blob/master/Day%204_%20Binomial%20Distribution%20I%20_%20HackerRank.pdf)
 
-## Data Structures : 
+## [Data Structures :](https://github.com/antosoa/hackerrank/tree/master/hackerrankproject/src/datastructures) 
 - [dynamic array](https://github.com/antosoa/hackerrank/blob/master/hackerrankproject/src/datastructures/dynamicarray/Solution.java)
 - graphs
 - linked list
