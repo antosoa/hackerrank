@@ -22,7 +22,7 @@ Code practice on (https://www.hackerrank.com)
 - [Binomial distribution](https://github.com/antosoa/hackerrank/blob/master/Day%204_%20Binomial%20Distribution%20I%20_%20HackerRank.pdf)
 - [Geometric distribution]
 
-## Algorithms ![AlgorithmsPoints]
+## Algorithms 
 - [Warmup](https://github.com/RyanFehr/HackerRank#warmup)
 - [dynamic array](https://github.com/antosoa/hackerrank/blob/master/hackerrankproject/src/datastructures/dynamicarray/Solution.java)       graphs
 - [Implementation](https://github.com/RyanFehr/HackerRank#implementation)
@@ -38,7 +38,7 @@ Code practice on (https://www.hackerrank.com)
 - [Game Theory](https://github.com/RyanFehr/HackerRank#game-theory)
 - [NP Complete](https://github.com/RyanFehr/HackerRank#np-complete)
 
-## [DataStructures !](https://github.com/antosoa/hackerrank/tree/master/hackerrankproject/src/datastructures)
+## [DataStructures](https://github.com/antosoa/hackerrank/tree/master/hackerrankproject/src/datastructures)
 - [Arrays](https://github.com/RyanFehr/HackerRank#arrays)
 - [Linked Lists](https://github.com/RyanFehr/HackerRank#linked-lists)
 - [Trees](https://github.com/RyanFehr/HackerRank#trees)
@@ -51,7 +51,7 @@ Code practice on (https://www.hackerrank.com)
 - [Trie](https://github.com/RyanFehr/HackerRank#trie)
 - [Advanced](https://github.com/RyanFehr/HackerRank#advanced)
 
-## Mathematics ![MathematicsPoints]
+## Mathematics
 - [Fundamentals](https://github.com/RyanFehr/HackerRank#fundamentals)
 - Number Theory
 - Combinatorics
