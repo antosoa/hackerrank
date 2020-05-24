@@ -3,8 +3,8 @@ Code practice on (https://www.hackerrank.com)
 
 
 ## [Big O notation](https://github.com/antosoa/hackerrank/blob/master/Learning%20Big%20O%20Notation%20With%20O(n)%20Complexity%20-%20DZone%20Performance.pdf)
-
-## [std deviation](https://github.com/antosoa/hackerrank/blob/master/Standard-Deviation)
+## Statistics
+- [std deviation](https://github.com/antosoa/hackerrank/blob/master/Standard-Deviation)
 
 ```java
  for (int i=0; i<a.length; i++)
@@ -18,14 +18,48 @@ Code practice on (https://www.hackerrank.com)
       }
         return Math.sqrt(std/a.length); 
 ```
+- [conditional probability](https://github.com/antosoa/hackerrank/blob/master/Day%203_%20Conditional%20Probability%20_%20HackerRank.pdf)
+- [Binomial distribution](https://github.com/antosoa/hackerrank/blob/master/Day%204_%20Binomial%20Distribution%20I%20_%20HackerRank.pdf)
+- [Geometric distribution]
 
-## [conditional probability](https://github.com/antosoa/hackerrank/blob/master/Day%203_%20Conditional%20Probability%20_%20HackerRank.pdf)
+## Algorithms ![AlgorithmsPoints]
+- [Warmup](https://github.com/RyanFehr/HackerRank#warmup)
+- [dynamic array](https://github.com/antosoa/hackerrank/blob/master/hackerrankproject/src/datastructures/dynamicarray/Solution.java)       graphs
+- [Implementation](https://github.com/RyanFehr/HackerRank#implementation)
+- [Strings](https://github.com/RyanFehr/HackerRank#strings)
+- [Sorting](https://github.com/RyanFehr/HackerRank#sorting)
+- [Search](https://github.com/RyanFehr/HackerRank#search)
+- [Graph Theory](https://github.com/RyanFehr/HackerRank#graph-theory)
+- [Greedy](https://github.com/RyanFehr/HackerRank#greedy)
+- [Dynamic Programming](https://github.com/RyanFehr/HackerRank#dynamic-programming)
+- [Constructive Algorithms](https://github.com/RyanFehr/HackerRank#constructive-algorithms)
+- [Bit Manipulation](https://github.com/RyanFehr/HackerRank#bit-manipulation)
+- [Recursion](https://github.com/RyanFehr/HackerRank#recursion)
+- [Game Theory](https://github.com/RyanFehr/HackerRank#game-theory)
+- [NP Complete](https://github.com/RyanFehr/HackerRank#np-complete)
 
-## [Binomial distribution](https://github.com/antosoa/hackerrank/blob/master/Day%204_%20Binomial%20Distribution%20I%20_%20HackerRank.pdf)
+## [DataStructures !](https://github.com/antosoa/hackerrank/tree/master/hackerrankproject/src/datastructures)
+- [Arrays](https://github.com/RyanFehr/HackerRank#arrays)
+- [Linked Lists](https://github.com/RyanFehr/HackerRank#linked-lists)
+- [Trees](https://github.com/RyanFehr/HackerRank#trees)
+- [Balanced Trees](https://github.com/RyanFehr/HackerRank#balanced-trees)
+- [Stacks](https://github.com/RyanFehr/HackerRank#stacks)
+- [Queues](https://github.com/RyanFehr/HackerRank#queues)
+- [Heap](https://github.com/RyanFehr/HackerRank#heap)
+- [Disjoint Set](https://github.com/RyanFehr/HackerRank#disjoint-set)
+- [Multiple Choice](https://github.com/RyanFehr/HackerRank#multiple-choice)
+- [Trie](https://github.com/RyanFehr/HackerRank#trie)
+- [Advanced](https://github.com/RyanFehr/HackerRank#advanced)
 
-## [Data Structures :](https://github.com/antosoa/hackerrank/tree/master/hackerrankproject/src/datastructures) 
-- [dynamic array](https://github.com/antosoa/hackerrank/blob/master/hackerrankproject/src/datastructures/dynamicarray/Solution.java)
-- graphs
+## Mathematics ![MathematicsPoints]
+- [Fundamentals](https://github.com/RyanFehr/HackerRank#fundamentals)
+- Number Theory
+- Combinatorics
+- Algebra
+- Geometry
+- Probability
+- Linear Algebra Foundations
+
 
 
 ## Notes about Singly linked list in Java: 
