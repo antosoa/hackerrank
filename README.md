@@ -27,4 +27,6 @@ Code practice on (https://www.hackerrank.com)
 - [dynamic array](https://github.com/antosoa/hackerrank/blob/master/hackerrankproject/src/datastructures/dynamicarray/Solution.java)
 - graphs
 - linked list
-
+<p align="center">
+	<img src="https://static.javatpoint.com/corebasic/programs/images/java-singly-linked-list-examples.png">
+</p>
