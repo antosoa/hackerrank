@@ -27,6 +27,11 @@ Code practice on (https://www.hackerrank.com)
 - [dynamic array](https://github.com/antosoa/hackerrank/blob/master/hackerrankproject/src/datastructures/dynamicarray/Solution.java)
 - graphs
 - linked list
+Notes about Singly linked list in Java: 
+
+- Linked List can be defined as a collection of objects called nodes that are randomly stored in the memory.
+- A node contains two fields, i.e. data stored at that particular address and the pointer which contains the address of the next node in   the memory.
+- The last node of the list contains the pointer to the null.
 <p align="center">
 	<img src="https://static.javatpoint.com/corebasic/programs/images/java-singly-linked-list-examples.png">
 </p>
