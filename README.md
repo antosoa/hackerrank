@@ -26,9 +26,9 @@ Code practice on (https://www.hackerrank.com)
 ## [Data Structures :](https://github.com/antosoa/hackerrank/tree/master/hackerrankproject/src/datastructures) 
 - [dynamic array](https://github.com/antosoa/hackerrank/blob/master/hackerrankproject/src/datastructures/dynamicarray/Solution.java)
 - graphs
-- linked list
-Notes about Singly linked list in Java: 
 
+
+## Notes about Singly linked list in Java: 
 - Linked List can be defined as a collection of objects called nodes that are randomly stored in the memory.
 - A node contains two fields, i.e. data stored at that particular address and the pointer which contains the address of the next node in   the memory.
 - The last node of the list contains the pointer to the null.
