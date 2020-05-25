@@ -22,6 +22,7 @@ Code practice on (https://www.hackerrank.com)
 - [Binomial distribution](https://github.com/antosoa/hackerrank/blob/master/Day%204_%20Binomial%20Distribution%20I%20_%20HackerRank.pdf)
 - [Poisson distribution](https://github.com/antosoa/hackerrank/blob/master/Day%205_%20Poisson%20Distribution%20I%20_%20HackerRank.pdf) <img src="https://latex.codecogs.com/svg.latex?f(x)%20=%20\frac{\lambda^x*e^{-\lambda}}{%20x!}"/>
 - [Geometric distribution]
+- [Normal Distribution](http://onlinestatbook.com/2/calculators/normal_dist.html) ,by David M. Lane
 
 ## Algorithms 
 - [Warmup](https://github.com/RyanFehr/HackerRank#warmup)
