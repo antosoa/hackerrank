@@ -5,7 +5,7 @@ Code practice on (https://www.hackerrank.com)
 ## [Big O notation](https://github.com/antosoa/hackerrank/blob/master/Learning%20Big%20O%20Notation%20With%20O(n)%20Complexity%20-%20DZone%20Performance.pdf)
 
 ###  for example the code below is a O(1)
-We are starting at a constant less than the middle of the array, and going to a constant more. If you got this right, you can be pretty confident about your Big-O skills!
+We are starting at a constant less than the middle of the array, and going to a constant more.
 
 ```java
 int sumTheMiddle(int[] arr) {
