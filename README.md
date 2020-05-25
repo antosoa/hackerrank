@@ -21,7 +21,7 @@ Code practice on (https://www.hackerrank.com)
 - [conditional probability](https://github.com/antosoa/hackerrank/blob/master/Day%203_%20Conditional%20Probability%20_%20HackerRank.pdf)
 - [Binomial distribution](https://github.com/antosoa/hackerrank/blob/master/Day%204_%20Binomial%20Distribution%20I%20_%20HackerRank.pdf)
 - [Poisson distribution](https://github.com/antosoa/hackerrank/blob/master/Day%205_%20Poisson%20Distribution%20I%20_%20HackerRank.pdf) <img src="https://latex.codecogs.com/svg.latex?f(x)%20=%20\frac{\lambda^x*e^{-\lambda}}{%20x!}"/>
-- [Geometric distribution]
+- [Geometric distribution](https://github.com/antosoa/hackerrank/blob/master/Day%204_%20Geometric%20Distribution%20I%20_%20HackerRank.pdf)
 - [Normal Distribution](http://onlinestatbook.com/2/calculators/normal_dist.html) 
 - [Central Limit Theorem](https://github.com/antosoa/hackerrank/blob/master/CentralLimitTheorem.py)
 
