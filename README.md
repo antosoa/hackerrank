@@ -3,6 +3,24 @@ Code practice on (https://www.hackerrank.com)
 
 
 ## [Big O notation](https://github.com/antosoa/hackerrank/blob/master/Learning%20Big%20O%20Notation%20With%20O(n)%20Complexity%20-%20DZone%20Performance.pdf)
+
+###  for example the code below is a O(1)
+We are starting at a constant less than the middle of the array, and going to a constant more.
+
+```java
+int sumTheMiddle(int[] arr) {
+  int range = 100;
+  int start = arr.length/2 - range/2;
+  int sum = 0;
+  for (int i=start; i< start+range; i++) 
+  {
+    sum += arr[i];
+  }
+  return sum;
+}
+```
+
+
 ## Statistics
 - [std deviation](https://github.com/antosoa/hackerrank/blob/master/Standard-Deviation)
 
@@ -21,7 +39,9 @@ Code practice on (https://www.hackerrank.com)
 - [conditional probability](https://github.com/antosoa/hackerrank/blob/master/Day%203_%20Conditional%20Probability%20_%20HackerRank.pdf)
 - [Binomial distribution](https://github.com/antosoa/hackerrank/blob/master/Day%204_%20Binomial%20Distribution%20I%20_%20HackerRank.pdf)
 - [Poisson distribution](https://github.com/antosoa/hackerrank/blob/master/Day%205_%20Poisson%20Distribution%20I%20_%20HackerRank.pdf) <img src="https://latex.codecogs.com/svg.latex?f(x)%20=%20\frac{\lambda^x*e^{-\lambda}}{%20x!}"/>
-- [Geometric distribution]
+- [Geometric distribution](https://github.com/antosoa/hackerrank/blob/master/Day%204_%20Geometric%20Distribution%20I%20_%20HackerRank.pdf)
+- [Normal Distribution](http://onlinestatbook.com/2/calculators/normal_dist.html) 
+- [Central Limit Theorem](https://github.com/antosoa/hackerrank/blob/master/CentralLimitTheorem.py)
 
 ## Algorithms 
 - [Warmup](https://github.com/RyanFehr/HackerRank#warmup)
