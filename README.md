@@ -90,3 +90,8 @@ int sumTheMiddle(int[] arr) {
 <p align="center">
 	<img src="https://static.javatpoint.com/corebasic/programs/images/java-singly-linked-list-examples.png">
 </p>
+
+
+## [Nested Class](http://tutorials.jenkov.com/java/nested-classes.html)
+
+## [Casting Object](https://stackoverflow.com/questions/5306835/casting-objects-in-java) 
