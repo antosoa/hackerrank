@@ -1,4 +1,5 @@
-package datastructures.arrays.sparsearray;
+package datastructures.array.sparsearray;
+
 
 import java.io.*;
 import java.math.*;
