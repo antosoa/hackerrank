@@ -1,4 +1,5 @@
-package datastructures.arraymanipulation;
+package datastructures.array.arraymanipulation;
+ 
 
 import java.io.*;
 import java.math.*;
