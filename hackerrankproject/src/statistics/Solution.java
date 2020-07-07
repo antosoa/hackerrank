@@ -1,4 +1,4 @@
-package datastructures.meanmedianmode;
+package statistics;
 
 import java.io.*;
 import java.util.*;
