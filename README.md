@@ -95,3 +95,5 @@ int sumTheMiddle(int[] arr) {
 ## [Nested Class](http://tutorials.jenkov.com/java/nested-classes.html)
 
 ## [Casting Object](https://stackoverflow.com/questions/5306835/casting-objects-in-java) 
+
+## [Thread Safety](https://www.baeldung.com/java-thread-safety)
