@@ -1,5 +1,9 @@
 package datastructures.queue.deck;
 
+/*
+*In this problem, you are given N  integers.
+* You need to find the maximum number of unique integers among all the possible contiguous subarrays of size M.
+*/
 import java.util.*;
   
     public class Solution {
